@@ -9,5 +9,5 @@ Collection of Music Generating Networks can be instantly used on Google Colab.
       - [Jazz <-> Pop](https://drive.google.com/uc?id=124-o9uchvYJOw5wgoefdNeomhBKymUTh)
 2. Ambient Music with Transformer
     - Can generate Ambient music or Techno music from seed
-    - Ambient model and Techno model on github (original: https://github.com/pachyderm/ambient-music-generation, forked (in case original is deleted): https://github.com/maekawataiki/MusicGeneration.git)
+    - Ambient model and Techno model on github (original: https://github.com/pachyderm/ambient-music-generation, forked (in case original is deleted): https://github.com/maekawataiki/ambient-music-generation)
 
